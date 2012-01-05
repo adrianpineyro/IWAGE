@@ -107,4 +107,4 @@ Iwage is web application to create and edit graphics and images. You can use it 
 
 **WebSite:** http://www.ienter.net
 
-**Team:** Valentín Starck (Developer), Adrián E. Piñeyro (Product/Project Manager)
+**Team:** [Valentín Starck (Developer)] (https://github.com/Aijoona), [Adrián E. Piñeyro (Product/Project Manager)] (https://github.com/adrianpineyro)
